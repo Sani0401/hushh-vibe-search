@@ -11,7 +11,7 @@ import getUserDetails from "./services/authentication/getUserDetails";
 import ToBeLaunched from "./components/ToBeLaunched/ToBeLaunched";
 import Head from "next/head";
 import utilities from "./components/utilities/utilities";
-import { HushhButton } from "hushh-button-private-1";
+import { HushhButton } from "hushh-button-private-2";
 const slides = [
   {
     image: Slide1,

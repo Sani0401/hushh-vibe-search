@@ -23,7 +23,6 @@
     "axios": "^1.7.7",
     "babel-jest": "^29.7.0",
     "framer-motion": "^11.11.10",
-    "hushh-button-private-1": "^0.1.13",
     "jest-canvas-mock": "^2.5.2",
     "jest-transform-stub": "^2.0.0",
     "lottie-react": "^2.4.0",

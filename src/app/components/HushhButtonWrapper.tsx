@@ -17,9 +17,9 @@ const questionsArray = [
   }
 ];
 
-const HushhButton = dynamic(() => import('hushh-button-private-1').then(mod => mod.HushhButton), {
-  ssr: false
-});
+// const HushhButton = dynamic(() => import('hushh-button-private-2').then(mod => mod.default || mod.HushhButton), {
+//   ssr: false
+// });
 
 export default function HushhButtonWrapper() {
   const searchParams = useSearchParams();
